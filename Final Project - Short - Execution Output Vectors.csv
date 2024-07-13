@@ -1,0 +1,5 @@
+Interval,Executed Quantity,Percentage of Executed Quantity,Non Executed Quantity,Percentage of Non Executed Quantity,Average Execution Price
+Interval 1,200000,100.0,0,0.0,1.348932
+Interval 2,10000,33.33,20000,66.67,1.3487806666666664
+Interval 3,2000,10.0,18000,90.0,1.3487712903225804
+Interval 4,20394,67.98,9606,32.02,1.3487712903225804
